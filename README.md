@@ -1,1 +1,1 @@
-Link heroku : https://gentle-gorge-48919.herokuapp.com/
+Link heroku : https://binar-challange8.herokuapp.com/
